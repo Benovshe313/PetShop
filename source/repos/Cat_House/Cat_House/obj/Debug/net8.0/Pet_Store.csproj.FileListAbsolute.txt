@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Cat_House\Cat_House\bin\Debug\net8.0\Pet_Store.exe
+C:\Users\User\source\repos\Cat_House\Cat_House\bin\Debug\net8.0\Pet_Store.deps.json
+C:\Users\User\source\repos\Cat_House\Cat_House\bin\Debug\net8.0\Pet_Store.runtimeconfig.json
+C:\Users\User\source\repos\Cat_House\Cat_House\bin\Debug\net8.0\Pet_Store.dll
+C:\Users\User\source\repos\Cat_House\Cat_House\bin\Debug\net8.0\Pet_Store.pdb
+C:\Users\User\source\repos\Cat_House\Cat_House\obj\Debug\net8.0\Pet_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cat_House\Cat_House\obj\Debug\net8.0\Pet_Store.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cat_House\Cat_House\obj\Debug\net8.0\Pet_Store.AssemblyInfo.cs
+C:\Users\User\source\repos\Cat_House\Cat_House\obj\Debug\net8.0\Pet_Store.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cat_House\Cat_House\obj\Debug\net8.0\Pet_Store.dll
+C:\Users\User\source\repos\Cat_House\Cat_House\obj\Debug\net8.0\refint\Pet_Store.dll
+C:\Users\User\source\repos\Cat_House\Cat_House\obj\Debug\net8.0\Pet_Store.pdb
+C:\Users\User\source\repos\Cat_House\Cat_House\obj\Debug\net8.0\Pet_Store.genruntimeconfig.cache
+C:\Users\User\source\repos\Cat_House\Cat_House\obj\Debug\net8.0\ref\Pet_Store.dll

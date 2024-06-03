@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\bin\Debug\net8.0\Cat_cat_House.exe
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\bin\Debug\net8.0\Cat_cat_House.deps.json
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\bin\Debug\net8.0\Cat_cat_House.runtimeconfig.json
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\bin\Debug\net8.0\Cat_cat_House.dll
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\bin\Debug\net8.0\Cat_cat_House.pdb
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\obj\Debug\net8.0\Cat_cat_House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\obj\Debug\net8.0\Cat_cat_House.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\obj\Debug\net8.0\Cat_cat_House.AssemblyInfo.cs
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\obj\Debug\net8.0\Cat_cat_House.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\obj\Debug\net8.0\Cat_cat_House.dll
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\obj\Debug\net8.0\refint\Cat_cat_House.dll
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\obj\Debug\net8.0\Cat_cat_House.pdb
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\obj\Debug\net8.0\Cat_cat_House.genruntimeconfig.cache
+C:\Users\User\source\repos\Cat_cat_House\Cat_cat_House\obj\Debug\net8.0\ref\Cat_cat_House.dll
